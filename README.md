@@ -7,3 +7,5 @@ this folder.
 
 For submission instructions, see the Assessment section of the FDS
 Learn site.
+
+Coursework written by Domas Linkevicius and David Sterratt, with comments from Anna Hadjitofi.
