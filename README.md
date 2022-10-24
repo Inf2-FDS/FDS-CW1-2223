@@ -4,7 +4,7 @@
 
 ### Instructions
 
-Full instructions for the coursework are in the python notebook in
+Full instructions for the coursework are in the Python notebook in
 this folder.
 
 For submission instructions, see the Assessment section of the FDS
